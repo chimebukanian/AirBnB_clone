@@ -132,6 +132,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 
 
-- [EverlyneAngwenyi(https://github.com/nyeve) ~ [LinkeddIn](https://www.linkedin.com/in/Everlyne-Angwenyi/) ~ [@johnelsaphiree](https://twitter.com/evelyn_nyaboke):
+- [EverlyneAngwenyi(https://github.com/nyeve) ~ [LinkeddIn](https://www.linkedin.com/in/Everlyne-Angwenyi/)
 
 **chimebukanian** - (https://github.com/chimebukanian)
